@@ -18,3 +18,7 @@ The Wiki URL Shortener allows you to create short URLs for any page on projects 
 ### Limits:
 - 50 short URLs every 2 minutes per IP for guest users.
 - 10 short URLs every 2 minutes per IP for logged in users.
+
+### Info
+Download: https://chrome.google.com/webstore/detail/wiki-url-shortener/oabidnaoocamhcmfgijbgpinnommcpeo
+Webpage: https://leomoon.com/downloads/plugins/wiki-url-shortener-extension/
